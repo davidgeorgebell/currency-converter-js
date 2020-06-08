@@ -1,4 +1,5 @@
 export const currencies = {
+  GBP: 'British Pound Sterling',
   USD: 'United States Dollar',
   AUD: 'Australian Dollar',
   BGN: 'Bulgarian Lev',
@@ -8,7 +9,6 @@ export const currencies = {
   CNY: 'Chinese Yuan',
   CZK: 'Czech Republic Koruna',
   DKK: 'Danish Krone',
-  GBP: 'British Pound Sterling',
   HKD: 'Hong Kong Dollar',
   HRK: 'Croatian Kuna',
   HUF: 'Hungarian Forint',
