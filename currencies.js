@@ -1,4 +1,4 @@
-const currencies = {
+export const currencies = {
   USD: 'United States Dollar',
   AUD: 'Australian Dollar',
   BGN: 'Bulgarian Lev',
